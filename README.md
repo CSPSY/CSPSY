@@ -1,5 +1,9 @@
 ### Hi there 👋, this is Psy.
+🤖 Programmer
 
+C & C++ & Python & JavaScript
+
+Blog: is building.
 <!--
 **CSPSY/CSPSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
