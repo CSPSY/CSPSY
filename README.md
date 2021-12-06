@@ -13,7 +13,10 @@ CSDN: [CSPsy](https://blog.csdn.net/m0_51573433)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          1 hr 48 mins    ██████████████████▓░░░░░░   74.27 % 
+JavaScript   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+C            13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+HTML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
