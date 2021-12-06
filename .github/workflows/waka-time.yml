@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GIST_ID: 53ece720a36fbc21a3ba6604fc8aff11
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: <CSPSY/CSPSY>
