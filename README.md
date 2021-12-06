@@ -10,6 +10,9 @@ CSDN: [CSPsy](https://blog.csdn.net/m0_51573433)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CSPSY&theme=tokyonight)](https://github.com/CSPSY/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
